@@ -1,0 +1,1 @@
+# DavidMalkov_QA_class
