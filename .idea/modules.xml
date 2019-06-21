@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DavidMalkov_QA_class.iml" filepath="$PROJECT_DIR$/.idea/DavidMalkov_QA_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Selenium-Web-Tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Selenium-Web-Tests.iml" group="Selenium-Web-Tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Selenium-Web-Tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Selenium-Web-Tests_main.iml" group="Selenium-Web-Tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Selenium-Web-Tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Selenium-Web-Tests_test.iml" group="Selenium-Web-Tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Selenium-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Selenium-tests_main.iml" group="Selenium-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Selenium-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Selenium-tests_test.iml" group="Selenium-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeat-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/repeat-tests.iml" group="repeat-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeat-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repeat-tests_main.iml" group="repeat-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeat-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repeat-tests_test.iml" group="repeat-tests" />
+    </modules>
+  </component>
+</project>
