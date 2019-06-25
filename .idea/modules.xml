@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeat-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/repeat-tests.iml" group="repeat-tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeat-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repeat-tests_main.iml" group="repeat-tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repeat-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repeat-tests_test.iml" group="repeat-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello_web.iml" filepath="$PROJECT_DIR$/.idea/modules/trello_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello_web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/trello_web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello_web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/trello_web.test.iml" />
     </modules>
   </component>
 </project>

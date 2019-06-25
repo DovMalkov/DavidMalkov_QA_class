@@ -11,6 +11,9 @@
     <ignored path="$PROJECT_DIR$/Selenium-Web-Tests/.gradle/" />
     <ignored path="$PROJECT_DIR$/Selenium-Web-Tests/build/" />
     <ignored path="$PROJECT_DIR$/Selenium-Web-Tests/out/" />
+    <ignored path="$PROJECT_DIR$/trello_web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/trello_web/build/" />
+    <ignored path="$PROJECT_DIR$/trello_web/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/repeat-tests">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/trello_web">
       <ProjectState />
     </projectState>
   </component>
@@ -59,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium-Web-Tests/src/test/java/com/telran/qa20/OpenGoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#314#315#0" expanded="true" />
@@ -75,11 +81,34 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trello_web/src/test/java/TrelloLoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trello_web/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium-Web-Tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -103,6 +132,8 @@
         <option value="$PROJECT_DIR$/Selenium-Web-Tests/build.gradle" />
         <option value="$PROJECT_DIR$/repeat-tests/build.gradle" />
         <option value="$PROJECT_DIR$/Selenium-Web-Tests/src/test/java/com/telran/qa20/OpenGoogleTest.java" />
+        <option value="$PROJECT_DIR$/trello_web/build.gradle" />
+        <option value="$PROJECT_DIR$/trello_web/src/test/java/TrelloLoginTest.java" />
       </list>
     </option>
   </component>
@@ -129,18 +160,18 @@
             <path>
               <item name="DavidMalkov_QA_class" type="b2602c69:ProjectViewProjectNode" />
               <item name="DavidMalkov_QA_class" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium-Web-Tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="trello_web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="DavidMalkov_QA_class" type="b2602c69:ProjectViewProjectNode" />
               <item name="DavidMalkov_QA_class" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium-Web-Tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="trello_web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DavidMalkov_QA_class" type="b2602c69:ProjectViewProjectNode" />
               <item name="DavidMalkov_QA_class" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium-Web-Tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="trello_web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
@@ -153,11 +184,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/Git CMD (Deprecated).lnk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/trello_web/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.side.proportion" value="0.3505747" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.OpenGoogleTest">
+  <component name="RunManager" selected="TestNG.TrelloLoginTest.loginTest">
     <configuration name="OpenGoogleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Web-Tests_test" />
       <extension name="coverage">
@@ -207,8 +238,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TrelloLoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trello_web.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrelloLoginTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TrelloLoginTest.loginTest" />
         <item itemvalue="TestNG.OpenGoogleTest" />
         <item itemvalue="TestNG.OpenGoogleTest.testGoogle" />
       </list>
@@ -234,12 +278,29 @@
     <history-entry file="OpenGoogleTest - 2019.06.21 at 11h 35m 58s.xml">
       <configuration name="OpenGoogleTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.21 at 11h 43m 56s.xml">
+      <configuration name="OpenGoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloLoginTest_loginTest - 2019.06.25 at 20h 48m 35s.xml">
+      <configuration name="TrelloLoginTest.loginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloLoginTest_loginTest - 2019.06.25 at 20h 49m 30s.xml">
+      <configuration name="TrelloLoginTest.loginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloLoginTest_loginTest - 2019.06.25 at 20h 51m 11s.xml">
+      <configuration name="TrelloLoginTest.loginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloLoginTest_loginTest - 2019.06.25 at 20h 56m 37s.xml">
+      <configuration name="TrelloLoginTest.loginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloLoginTest_loginTest - 2019.06.25 at 20h 59m 15s.xml">
+      <configuration name="TrelloLoginTest.loginTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.27986577" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" weight="0.2536913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,7 +318,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -266,7 +327,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info active="true" anchor="right" id="Gradle" order="8" visible="true" weight="0.3295302" />
+      <window_info active="true" anchor="right" id="Gradle" order="8" visible="true" weight="0.1818792" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -278,13 +339,6 @@
     <entry file="file://$PROJECT_DIR$/Selenium-tests/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium-Web-Tests/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repeat-tests/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -292,16 +346,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/trello_web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium-Web-Tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Selenium-Web-Tests/src/test/java/com/telran/qa20/OpenGoogleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
             <element signature="e#333#334#0" expanded="true" />
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trello_web/src/test/java/TrelloLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -357,11 +437,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Selenium-Web-Tests</last-edited>
+          <last-edited>trello_web.test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3505747" />
                 <option value="0.6" />
               </list>
             </option>
